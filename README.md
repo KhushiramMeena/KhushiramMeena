@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KhushiramMeena
-- 👀 I’m interested in webdevelopment(frontend and backend).
+- 👀 I’m interested in web-development(frontend and backend).
 - 🌱 I’m currently learning DSA and Node-Js.
 - 📫 you can reach me at mkhushiram68@gmail.com
 - My Linkedin ID :-https://www.linkedin.com/in/khushiram1/
