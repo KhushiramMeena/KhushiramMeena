@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/KhushiramMeena/KhushiramMeena/blob/main/img/header.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Khushiram+Meena;She/her;Computer+Engineering+Student;Brazilian+Frontend+Dev;Cat+Lover+:3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Engineering Student,  Web developer"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Khushiram+Meena;" alt="Computer Engineering Student,  Web developer"></a>
 </div>
 
 
@@ -42,27 +42,12 @@ You can click the Preview link to take a look at your changes.
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=mkhushiram68@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
 </a>
 </br>
-
-<h2>:bulb: Languages & Frameworks I code in</h2>
-<code><img title="HTML 5" alt="html5" width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
-<code><img title="CSS 3" alt="css 3" width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
-<code><img title="JavaScript" alt="javascript" width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
-<code><img title="ReactJS" alt="react js" width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
-<code> <img title="Next.js" alt="next.js" width="75px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original-wordmark.svg" /></code>
-<code><img title="NodeJS" alt="node js" width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
-<code><img title="ExpressJS" alt="express js" width="75px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original.svg" /></code>
-<code><img title="PHP" alt="PHP" width="75px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-plain.svg" /></code>
-<code><img title="PHP" alt="MYSQL" width="75px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" /></code>
-<code><img title="MongoDB" alt="MongoDB" width="75px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-plain-wordmark.svg" /></code>
-
-<code><img title="C" alt="C" width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
-<code><img title="C++" alt="C++" width="75px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" /></code>
-<code><img title="Python" alt="python" width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
-
-
-
-<code> <img title="Markdown" alt="markdown" width="75px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
-
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+  </a>
+</p>
 </br></br>
 
 <h2>:hammer_and_wrench: Things that help me getting my code done</h2>
@@ -76,5 +61,5 @@ You can click the Preview link to take a look at your changes.
 </br></br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiramMeena&layout=donut)](https://github.com/KhushiramMeena/github-readme-stats)
+
 
