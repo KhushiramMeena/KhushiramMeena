@@ -25,9 +25,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **React, Nodejs, MongoDB**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
-
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- 💼 Previously worked as **Full Stack Developer**
 
 - 💬 Ask me about **React, php, nodejs, mongoDB**
 
